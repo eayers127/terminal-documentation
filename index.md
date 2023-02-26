@@ -22,5 +22,12 @@ This helps stay organized using the terminal so that commands are not run in unw
 
 What is the bin? How does it work?
 Bin is short for binaries. It contains commands that can be used by not only the admin but also by any user. 
+Which ls shows where the bin sits
 
 Write about at least two new things you have personally learned about the command line.
+An evironmental variable is a variable stored in your own files that can be seen by all other files. 
+There are two things named path and root. 
+A container is a file system object that wraps a process
+ss is a secure socket tool
+curl transfers a url
+man -k is helpful to look for something specific in the manual
